@@ -1,5 +1,7 @@
 # Video Conferencia CPE-Powereng25
 
+![ ](https://github.com/LEOSZ8/Video_Powereng25/blob/36b570219eb287faec52429b8269a5520489e66c/Esquema_General.jpg)
+
 **Link página Conferencia con requisitos para video**
 
 [CPE-Powereng25_video](https://cpepowereng2025.org/student-yp-activity-2-2/)
@@ -15,6 +17,7 @@ Características importantes para la elaboración del video:
 - Al menos 2 minutos del video debe ser realizado de forma interactiva, mostrando videos de simulaciones realizadas y resultados.
 - Grabar el video con la voz propia.
 - Intentar insertar imágenes que tengan movimiento, como gifts.
+<<<<<<< HEAD
 
 **Guión de tres minutos**
 
@@ -23,3 +26,5 @@ En base al poster realizado para este paper, se procede a generar un guión que 
 Se agrega el texto del guión al video para posteriormente poder grabar la voz y luego añadir los subtitulos correspondientes.
 
 En esta oportunidad _se agrega el proyecto al repositorio_.
+=======
+>>>>>>> f3828d52f8be5d9e71672e29512e761c47b3f49e
