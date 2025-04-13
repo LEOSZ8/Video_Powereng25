@@ -15,3 +15,11 @@ Características importantes para la elaboración del video:
 - Al menos 2 minutos del video debe ser realizado de forma interactiva, mostrando videos de simulaciones realizadas y resultados.
 - Grabar el video con la voz propia.
 - Intentar insertar imágenes que tengan movimiento, como gifts.
+
+**Guión de tres minutos**
+
+En base al poster realizado para este paper, se procede a generar un guión que contenga información sobre el proceso de diseño de la embarcación. 
+
+Se agrega el texto del guión al video para posteriormente poder grabar la voz y luego añadir los subtitulos correspondientes.
+
+En esta oportunidad _se agrega el proyecto al repositorio_.
