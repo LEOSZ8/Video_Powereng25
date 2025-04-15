@@ -17,7 +17,7 @@ Características importantes para la elaboración del video:
 - Al menos 2 minutos del video debe ser realizado de forma interactiva, mostrando videos de simulaciones realizadas y resultados.
 - Grabar el video con la voz propia.
 - Intentar insertar imágenes que tengan movimiento, como gifts.
-<<<<<<< HEAD
+
 
 **Guión de tres minutos**
 
@@ -26,5 +26,9 @@ En base al poster realizado para este paper, se procede a generar un guión que 
 Se agrega el texto del guión al video para posteriormente poder grabar la voz y luego añadir los subtitulos correspondientes.
 
 En esta oportunidad _se agrega el proyecto al repositorio_.
-=======
->>>>>>> f3828d52f8be5d9e71672e29512e761c47b3f49e
+
+## Miercoles 14 
+
+Se descarga el proyecto desde el repositorio de casa y se visualizan los cambios realizados el dia de ayer en el trabajo. 
+
+Además, se crea una carpeta que en el proyecto de CapCut que tiene por nombre **"imgns_propias"**, con el fin de almacenar las imágenes para que estas posteriormente no pierdan la ruta. Esto se verificará en el proyecto desde el repositorio de Desarrollo.
