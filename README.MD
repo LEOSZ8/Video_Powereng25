@@ -10,12 +10,12 @@
 
 Características importantes para la elaboración del video:
 
-- El video debe durar 3 minutos, ni más ni menos.
-- 5 segundos con diapositiva de presentación del tema.
-- 5 segundos finales deben contener agradecimientos a IEEE IES por el IES-SYPA.
+- ~~El video debe durar 3 minutos, ni más ni menos~~ --> OK.
+- ~~5 segundos con diapositiva de presentación del tema~~ --> OK.
+- ~~5 segundos finales deben contener agradecimientos a IEEE IES por el IES-SYPA~~ --> OK.
 - Sólo un minuto del video puede ser realizado a través de diapositivas ppt.
 - Al menos 2 minutos del video debe ser realizado de forma interactiva, mostrando videos de simulaciones realizadas y resultados.
-- Grabar el video con la voz propia.
+- ~~Grabar el video con la voz propia~~ --> OK.
 - Intentar insertar imágenes que tengan movimiento, como gifts.
 
 
@@ -27,8 +27,12 @@ Se agrega el texto del guión al video para posteriormente poder grabar la voz y
 
 En esta oportunidad _se agrega el proyecto al repositorio_.
 
-## Miercoles 14 
+## Martes 15 
 
 Se descarga el proyecto desde el repositorio de casa y se visualizan los cambios realizados el dia de ayer en el trabajo. 
 
 Además, se crea una carpeta que en el proyecto de CapCut que tiene por nombre **"imgns_propias"**, con el fin de almacenar las imágenes para que estas posteriormente no pierdan la ruta. Esto se verificará en el proyecto desde el repositorio de Desarrollo.
+
+## Miercoles 16
+
+Se añaden los subtitulos y el audio en inglés al video, dejando establecida la estructura del video con su continido audible. Falta incorporar contenido audiovisual. 
