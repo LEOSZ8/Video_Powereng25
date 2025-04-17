@@ -36,3 +36,7 @@ Además, se crea una carpeta que en el proyecto de CapCut que tiene por nombre *
 ## Miercoles 16
 
 Se añaden los subtitulos y el audio en inglés al video, dejando establecida la estructura del video con su continido audible. Falta incorporar contenido audiovisual. 
+
+## Jueves 17
+
+Se realizó un _reset_ a los últimos commits porque había un video que excedia el límite permitido para subir información.
