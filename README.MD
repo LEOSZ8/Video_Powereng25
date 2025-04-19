@@ -1,50 +1,40 @@
-# Video Conferencia CPE-Powereng25
+# Video CPE-Powereng25 Conference - V1.0
 
-![ ](https://github.com/LEOSZ8/Video_Powereng25/blob/36b570219eb287faec52429b8269a5520489e66c/Esquema_General.jpg)
 
-**Link página Conferencia con requisitos para video**
+**Link requisitos para video IES-SYPA**
 
 [CPE-Powereng25_video](https://cpepowereng2025.org/student-yp-activity-2-2/)
 
-**Objtetivo**: _Realizar guión del video_.
+## Información
+Repositorio que contiene los archivos fuente del video v1.0, realizado para la IES-SYPA 2025.
+Si se quiere manejar este repositorio, una vez hecho _clone_, se recomiendo realizar:
 
-Características importantes para la elaboración del video:
+- **git pull origin master**
 
-- ~~El video debe durar 3 minutos, ni más ni menos~~ --> OK.
-- ~~5 segundos con diapositiva de presentación del tema~~ --> OK.
-- ~~5 segundos finales deben contener agradecimientos a IEEE IES por el IES-SYPA~~ --> OK.
-- ~~Sólo un minuto del video puede ser realizado a través de diapositivas ppt.~~ --> OK
-- ~~Al menos 2 minutos del video debe ser realizado de forma interactiva, mostrando videos de simulaciones realizadas y resultados.~~ --> OK
-- ~~Grabar el video con la voz propia~~ --> OK.
-- ~~Intentar insertar imágenes que tengan movimiento, como gifts.~~ --> OK
+La sentencia anterior se recomienda utilizar **siempre** que se comience a trabajar en el repositorio desde otro computador, para evitar conflictos entre el repositorio local y el repositorio remoto.
 
+Aquí se encuentran las siguientes carpetas:
 
-**Guión de tres minutos**
+- 01_Documentation
+- 02_Code
+- 03_CapCutProject
+- 04_ReleasedVideo
 
-En base al poster realizado para este paper, se procede a generar un guión que contenga información sobre el proceso de diseño de la embarcación. 
+## 01_Documentation
 
-Se agrega el texto del guión al video para posteriormente poder grabar la voz y luego añadir los subtitulos correspondientes.
+Contiene la documentación base con la que se realizó la estructura y guión del video v1.0.
 
-En esta oportunidad _se agrega el proyecto al repositorio_.
+## 02_Code
 
-## Martes 15 
+Contiene los códigos en MatLab con los que se obtuvieron imágenes respecto al perfil operacional del remolcador y el perfil operacional propuesto.
 
-Se descarga el proyecto desde el repositorio de casa y se visualizan los cambios realizados el dia de ayer en el trabajo. 
+## 03_CapCutProject
 
-Además, se crea una carpeta que en el proyecto de CapCut que tiene por nombre **"imgns_propias"**, con el fin de almacenar las imágenes para que estas posteriormente no pierdan la ruta. Esto se verificará en el proyecto desde el repositorio de Desarrollo.
+Contiene el proyecto fuente realizado en el software _CapCut_. 
+**Nota:** Esta carpeta debe ser copiada y pegada en la siguiente ruta, reemplazando a la carpeta original 
 
-## Miercoles 16
+_C:\Users\ ...\AppData\Local\CapCut\User Data_
 
-Se añaden los subtitulos y el audio en inglés al video, dejando establecida la estructura del video con su continido audible. Falta incorporar contenido audiovisual. 
+## 04_ReleasedVideos
 
-## Jueves 17
-
-Se realizó un _reset_ a los últimos commits porque había un video que excedia el límite permitido para subir información.
-
-## Viernes 18
-
-Se agregan retazos de videos y se termina de completar el video para IES-SYPA, restando corregir el audio del agradecimiento y las imágenes de inicio y cierre.
-
-## Sabado 19
-
-Se finaliza el video. Este se descarga y se envía por correo a Marcelo Perez, verificando que es posible enviarlo a través de google drive. Se procede a subir al repositorio por medio del comando "LFS". Se verifica que es posible subirlo al repositorio, aún cuando pesa más de 100 Mb.
+Carpeta que almacena las versiones de los videos creados.
