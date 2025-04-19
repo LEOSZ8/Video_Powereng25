@@ -13,10 +13,10 @@ Características importantes para la elaboración del video:
 - ~~El video debe durar 3 minutos, ni más ni menos~~ --> OK.
 - ~~5 segundos con diapositiva de presentación del tema~~ --> OK.
 - ~~5 segundos finales deben contener agradecimientos a IEEE IES por el IES-SYPA~~ --> OK.
-- Sólo un minuto del video puede ser realizado a través de diapositivas ppt.
-- Al menos 2 minutos del video debe ser realizado de forma interactiva, mostrando videos de simulaciones realizadas y resultados.
+- ~~Sólo un minuto del video puede ser realizado a través de diapositivas ppt.~~ --> OK
+- ~~Al menos 2 minutos del video debe ser realizado de forma interactiva, mostrando videos de simulaciones realizadas y resultados.~~ --> OK
 - ~~Grabar el video con la voz propia~~ --> OK.
-- Intentar insertar imágenes que tengan movimiento, como gifts.
+- ~~Intentar insertar imágenes que tengan movimiento, como gifts.~~ --> OK
 
 
 **Guión de tres minutos**
@@ -40,3 +40,11 @@ Se añaden los subtitulos y el audio en inglés al video, dejando establecida la
 ## Jueves 17
 
 Se realizó un _reset_ a los últimos commits porque había un video que excedia el límite permitido para subir información.
+
+## Viernes 18
+
+Se agregan retazos de videos y se termina de completar el video para IES-SYPA, restando corregir el audio del agradecimiento y las imágenes de inicio y cierre.
+
+## Sabado 19
+
+Se finaliza el video. Este se descarga y se envía por correo a Marcelo Perez, verificando que es posible enviarlo a través de google drive. Se procede a subir al repositorio por medio del comando "LFS". Se verifica que es posible subirlo al repositorio, aún cuando pesa más de 100 Mb.
